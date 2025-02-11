@@ -2,9 +2,14 @@
 
 A small library to generate tokens.
 
-Simple and easy to use.
+## Installation
 
-use tk;
+tk = { git = "https://github.com/ararog/tk.git" }
+
+
+## Usage
+
+use tk::tk;
 
 let code = tk(8);
 
