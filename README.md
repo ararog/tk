@@ -1,10 +1,10 @@
-# tk
+# tkn
 
 A small library to generate tokens.
 
 ## Installation
 
-tk = { git = "https://github.com/ararog/tk.git" }
+tkn = "0.0.1"
 
 
 ## Usage
