@@ -108,7 +108,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "tk"
+name = "tkn"
 version = "0.0.1"
 dependencies = [
  "rand",

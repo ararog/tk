@@ -1,7 +1,13 @@
 [package]
-name = "tk"
+name = "tkn"
 version = "0.0.1"
 edition = "2021"
+repository = "https://github.com/ararog/tkn"
+homepage = "https://github.com/ararog/tkn"
+description = "A small library to generate tokens."
+readme = "README.md"
+license = "GPL-3.0-or-later"
+keywords = ["token", "generator", "random"]
 
 [dependencies]
 rand = "0.9.0"
