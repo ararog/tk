@@ -9,7 +9,7 @@ tkn = "0.0.1"
 
 ## Usage
 
-use tk::tk;
+use tkn::tk;
 
 let code = tk(8);
 
